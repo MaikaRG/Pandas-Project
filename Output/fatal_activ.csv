@@ -1,0 +1,32 @@
+Fatal (Y/N),Activity,Sharks_attacks
+N,Surfing,1065
+N,Fishing&Hunting,684
+N,Other Water Sports,562
+N,Swimming,413
+N,Bathing,282
+N,UnKnown,207
+N,Accidents or natural disasters,83
+N,Shark related activities,47
+N,Random activities,27
+N,Boating,16
+N,Walking,15
+N,Stranger things,10
+UNKNOWN,UnKnown,23
+UNKNOWN,Fishing&Hunting,9
+UNKNOWN,Surfing,9
+UNKNOWN,Other Water Sports,6
+UNKNOWN,Bathing,3
+UNKNOWN,Boating,3
+UNKNOWN,Swimming,3
+UNKNOWN,Random activities,1
+Y,Swimming,188
+Y,Other Water Sports,138
+Y,Accidents or natural disasters,104
+Y,Fishing&Hunting,99
+Y,UnKnown,92
+Y,Surfing,68
+Y,Bathing,36
+Y,Random activities,13
+Y,Stranger things,5
+Y,Boating,3
+Y,Walking,1

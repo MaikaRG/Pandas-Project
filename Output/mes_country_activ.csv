@@ -1,0 +1,1126 @@
+Month,Country,Activity,Sharks_attacks
+Sep,USA,Surfing,112
+Oct,USA,Surfing,101
+Aug,USA,Surfing,81
+Apr,USA,Surfing,65
+Jul,USA,Surfing,65
+Nov,USA,Surfing,57
+Jun,USA,Swimming,49
+Aug,USA,Other Water Sports,48
+Jul,USA,Swimming,46
+Jun,USA,Surfing,46
+May,USA,Surfing,44
+Aug,USA,Bathing,42
+Jul,USA,Fishing&Hunting,39
+Jul,USA,Bathing,39
+Jul,USA,Other Water Sports,38
+Aug,USA,Swimming,38
+Mar,USA,Surfing,37
+Sep,USA,Swimming,33
+Dec,AUSTRALIA,Fishing&Hunting,33
+Jan,AUSTRALIA,Fishing&Hunting,32
+Oct,USA,Other Water Sports,32
+Jun,USA,Other Water Sports,31
+Jan,AUSTRALIA,Surfing,30
+Jun,USA,Bathing,30
+Sep,USA,Other Water Sports,29
+Jan,USA,Surfing,28
+Aug,USA,Fishing&Hunting,27
+Sep,USA,Bathing,26
+Mar,AUSTRALIA,Surfing,26
+Feb,AUSTRALIA,Fishing&Hunting,23
+Feb,AUSTRALIA,Surfing,22
+Jan,AUSTRALIA,Other Water Sports,22
+May,USA,Swimming,22
+Jan,SOUTH AFRICA,Fishing&Hunting,22
+Apr,AUSTRALIA,Fishing&Hunting,22
+Oct,AUSTRALIA,Surfing,21
+Sep,USA,Fishing&Hunting,21
+Jul,USA,UnKnown,21
+Dec,USA,Surfing,21
+May,USA,Other Water Sports,20
+Dec,AUSTRALIA,Surfing,19
+Jul,SOUTH AFRICA,Surfing,19
+Jan,SOUTH AFRICA,Surfing,19
+Jun,AUSTRALIA,Surfing,17
+Feb,USA,Surfing,17
+Jan,SOUTH AFRICA,Swimming,17
+Nov,USA,Other Water Sports,17
+May,USA,Bathing,17
+Apr,USA,Swimming,16
+Feb,AUSTRALIA,Other Water Sports,16
+Jun,USA,Fishing&Hunting,16
+Dec,SOUTH AFRICA,Swimming,16
+Dec,AUSTRALIA,Other Water Sports,16
+Oct,AUSTRALIA,Other Water Sports,15
+Jul,BAHAMAS,Fishing&Hunting,15
+Mar,USA,Other Water Sports,15
+Jan,AUSTRALIA,Swimming,15
+Feb,AUSTRALIA,Swimming,15
+Jan,PAPUA NEW GUINEA,Fishing&Hunting,15
+Jan,USA,Fishing&Hunting,15
+Sep,AUSTRALIA,Surfing,14
+Nov,AUSTRALIA,Surfing,14
+Jul,AUSTRALIA,Surfing,14
+Dec,AUSTRALIA,UnKnown,14
+Apr,USA,Fishing&Hunting,13
+Dec,USA,Other Water Sports,13
+Mar,AUSTRALIA,Fishing&Hunting,13
+Feb,SOUTH AFRICA,Surfing,13
+Apr,USA,UnKnown,13
+Apr,AUSTRALIA,Surfing,13
+Oct,USA,Swimming,13
+Nov,AUSTRALIA,Fishing&Hunting,12
+Feb,SOUTH AFRICA,Fishing&Hunting,12
+Oct,USA,Bathing,12
+Mar,USA,Bathing,12
+Jan,USA,Other Water Sports,12
+Nov,AUSTRALIA,Swimming,12
+Nov,AUSTRALIA,UnKnown,11
+Sep,AUSTRALIA,Other Water Sports,11
+Dec,SOUTH AFRICA,Surfing,11
+Mar,AUSTRALIA,Other Water Sports,11
+Apr,USA,Bathing,11
+Feb,USA,Other Water Sports,11
+Jul,USA,Accidents or natural disasters,11
+Apr,AUSTRALIA,Other Water Sports,10
+Dec,SOUTH AFRICA,Fishing&Hunting,10
+Dec,AUSTRALIA,Swimming,10
+Apr,SOUTH AFRICA,Fishing&Hunting,10
+Jan,SOUTH AFRICA,Bathing,10
+May,USA,Fishing&Hunting,10
+Mar,SOUTH AFRICA,Surfing,10
+Mar,SOUTH AFRICA,Fishing&Hunting,10
+Jun,SOUTH AFRICA,Surfing,10
+Apr,USA,Other Water Sports,10
+May,SOUTH AFRICA,Surfing,10
+May,SOUTH AFRICA,Fishing&Hunting,10
+Aug,AUSTRALIA,Surfing,10
+Jul,BRAZIL,Surfing,9
+Dec,SOUTH AFRICA,Other Water Sports,9
+Nov,USA,Swimming,9
+Jan,MOZAMBIQUE,Swimming,9
+Sep,USA,UnKnown,9
+Aug,USA,UnKnown,9
+Nov,AUSTRALIA,Other Water Sports,9
+Jun,BAHAMAS,Fishing&Hunting,9
+Jul,BAHAMAS,Other Water Sports,9
+Jun,SOUTH AFRICA,Other Water Sports,8
+Aug,SOUTH AFRICA,Fishing&Hunting,8
+Jan,NEW ZEALAND,Fishing&Hunting,8
+Dec,SOUTH AFRICA,Bathing,8
+Aug,AUSTRALIA,Fishing&Hunting,8
+Aug,BAHAMAS,Fishing&Hunting,8
+Oct,SOUTH AFRICA,Fishing&Hunting,8
+Oct,SOUTH AFRICA,Surfing,8
+Jan,SOUTH AFRICA,Other Water Sports,8
+Oct,AUSTRALIA,Fishing&Hunting,8
+May,USA,UnKnown,8
+Jun,AUSTRALIA,Other Water Sports,8
+Aug,SOUTH AFRICA,Surfing,8
+Nov,SOUTH AFRICA,Fishing&Hunting,8
+Sep,USA,Accidents or natural disasters,7
+Jul,REUNION,Surfing,7
+Nov,USA,Fishing&Hunting,7
+Apr,AUSTRALIA,UnKnown,7
+Aug,PAPUA NEW GUINEA,Fishing&Hunting,7
+Oct,USA,Fishing&Hunting,7
+Apr,SOUTH AFRICA,Surfing,7
+Dec,USA,Swimming,7
+Jan,IRAN,UnKnown,7
+Nov,SOUTH AFRICA,Surfing,7
+Feb,USA,Fishing&Hunting,7
+Aug,AUSTRALIA,Other Water Sports,7
+Sep,AUSTRALIA,Fishing&Hunting,7
+Feb,SOUTH AFRICA,Swimming,7
+Apr,AUSTRALIA,Swimming,7
+May,SOUTH AFRICA,Other Water Sports,7
+Jun,USA,UnKnown,7
+Jan,SOUTH AFRICA,UnKnown,7
+Jan,PAPUA NEW GUINEA,UnKnown,7
+Sep,SOUTH AFRICA,Fishing&Hunting,7
+May,AUSTRALIA,Surfing,7
+May,AUSTRALIA,Other Water Sports,7
+Jun,HONG KONG,Swimming,6
+Jan,AUSTRALIA,Bathing,6
+Jan,USA,Swimming,6
+Oct,USA,UnKnown,6
+Mar,AUSTRALIA,Swimming,6
+Jan,AUSTRALIA,UnKnown,6
+Jul,AUSTRALIA,Fishing&Hunting,6
+Feb,AUSTRALIA,UnKnown,6
+Jul,AUSTRALIA,Other Water Sports,6
+Oct,SOUTH AFRICA,Other Water Sports,6
+Mar,USA,Swimming,6
+Mar,SOUTH AFRICA,UnKnown,6
+May,AUSTRALIA,Fishing&Hunting,6
+Jun,USA,Accidents or natural disasters,6
+Aug,HONG KONG,Swimming,6
+Nov,AUSTRALIA,Accidents or natural disasters,6
+Dec,AUSTRALIA,Bathing,6
+Apr,SOUTH AFRICA,Other Water Sports,6
+Dec,USA,UnKnown,5
+Aug,USA,Accidents or natural disasters,5
+Jun,AUSTRALIA,Fishing&Hunting,5
+Apr,BRAZIL,Swimming,5
+Nov,PHILIPPINES,Accidents or natural disasters,5
+Mar,NEW ZEALAND,Fishing&Hunting,5
+Jul,SPAIN,Swimming,5
+Dec,NEW ZEALAND,Surfing,5
+Nov,SOUTH AFRICA,Swimming,5
+Mar,AUSTRALIA,UnKnown,5
+Dec,SOUTH AFRICA,UnKnown,5
+Dec,BRAZIL,Surfing,5
+Oct,BRAZIL,Surfing,5
+Oct,PAPUA NEW GUINEA,Fishing&Hunting,5
+Jul,SOUTH AFRICA,Fishing&Hunting,5
+Jan,NEW ZEALAND,Other Water Sports,5
+Feb,USA,Swimming,5
+Nov,PAPUA NEW GUINEA,Fishing&Hunting,5
+Jan,CUBA,Fishing&Hunting,5
+Sep,SOUTH AFRICA,Surfing,5
+Mar,SOUTH AFRICA,Swimming,5
+Mar,NEW CALEDONIA,Fishing&Hunting,5
+Mar,BRAZIL,Swimming,5
+May,AUSTRALIA,UnKnown,5
+May,SOUTH KOREA,Other Water Sports,5
+Aug,JAPAN,UnKnown,5
+Mar,USA,Fishing&Hunting,4
+Mar,USA,UnKnown,4
+Jun,USA,Stranger things,4
+Aug,BAHAMAS,Other Water Sports,4
+Apr,PAPUA NEW GUINEA,Fishing&Hunting,4
+Nov,AUSTRALIA,Bathing,4
+Jan,SOUTH AFRICA,Accidents or natural disasters,4
+Jan,USA,Bathing,4
+Dec,MOZAMBIQUE,Swimming,4
+Dec,MOZAMBIQUE,Fishing&Hunting,4
+May,FIJI,Fishing&Hunting,4
+Sep,PAPUA NEW GUINEA,Fishing&Hunting,4
+Nov,EGYPT,Other Water Sports,4
+Jul,MEXICO,Bathing,4
+Dec,USA,Fishing&Hunting,4
+Feb,USA,Bathing,4
+Nov,SOUTH AFRICA,Bathing,4
+Feb,NEW ZEALAND,Other Water Sports,4
+Feb,USA,UnKnown,4
+Feb,NEW CALEDONIA,Fishing&Hunting,4
+Mar,REUNION,Surfing,4
+Nov,USA,Accidents or natural disasters,4
+Feb,FIJI,Fishing&Hunting,4
+Jan,BAHAMAS,Other Water Sports,4
+Oct,AUSTRALIA,Swimming,4
+Oct,BAHAMAS,Other Water Sports,4
+Feb,AUSTRALIA,Bathing,4
+Jul,PACIFIC OCEAN,Accidents or natural disasters,4
+Apr,SOUTH AFRICA,Swimming,4
+Mar,SOUTH AFRICA,Other Water Sports,4
+Feb,NEW ZEALAND,Fishing&Hunting,4
+Apr,MOZAMBIQUE,Swimming,4
+Sep,ITALY,Fishing&Hunting,4
+Oct,REUNION,Other Water Sports,4
+Aug,ITALY,Other Water Sports,4
+Sep,ITALY,Other Water Sports,4
+Sep,BRAZIL,Swimming,4
+Aug,ITALY,Fishing&Hunting,4
+Oct,USA,Accidents or natural disasters,4
+Mar,AUSTRALIA,Accidents or natural disasters,4
+Jun,PAPUA NEW GUINEA,Fishing&Hunting,3
+Sep,TONGA,Swimming,3
+May,AUSTRALIA,Accidents or natural disasters,3
+Feb,SOUTH AFRICA,Other Water Sports,3
+Jun,REUNION,Other Water Sports,3
+Apr,MEXICO,Surfing,3
+Jan,FIJI,Fishing&Hunting,3
+Mar,NEW ZEALAND,Other Water Sports,3
+Jan,FIJI,UnKnown,3
+Jan,PAPUA NEW GUINEA,Other Water Sports,3
+Feb,NEW ZEALAND,Swimming,3
+Feb,SOUTH AFRICA,UnKnown,3
+Jan,REUNION,Fishing&Hunting,3
+Aug,CROATIA,Swimming,3
+Feb,SOUTH AFRICA,Bathing,3
+Jan,JAPAN,UnKnown,3
+May,USA,Shark related activities,3
+May,USA,Accidents or natural disasters,3
+Nov,SOUTH AFRICA,Other Water Sports,3
+Aug,MEXICO,Other Water Sports,3
+Jun,USA,Shark related activities,3
+Jan,MAURITIUS,Fishing&Hunting,3
+Aug,USA,Walking,3
+Aug,REUNION,Surfing,3
+Nov,USA,Bathing,3
+Jun,VANUATU,Swimming,3
+Jul,SOUTH AFRICA,Other Water Sports,3
+Sep,BAHAMAS,Fishing&Hunting,3
+Nov,BRAZIL,Surfing,3
+Jan,NEW ZEALAND,Surfing,3
+Jun,EGYPT,Other Water Sports,3
+Mar,AUSTRALIA,Bathing,3
+Feb,NEW ZEALAND,Surfing,3
+Jan,SRI LANKA,Fishing&Hunting,3
+Sep,SOUTH AFRICA,Other Water Sports,3
+Jan,ATLANTIC OCEAN,Other Water Sports,3
+Jan,USA,UnKnown,3
+Jan,USA,Accidents or natural disasters,3
+Sep,SOLOMON ISLANDS,Fishing&Hunting,3
+Dec,NEW ZEALAND,Fishing&Hunting,3
+Oct,MOZAMBIQUE,Fishing&Hunting,3
+Dec,EGYPT,Other Water Sports,3
+Jul,BRAZIL,Swimming,3
+Dec,PAPUA NEW GUINEA,Fishing&Hunting,3
+May,BRAZIL,Surfing,3
+Apr,SOUTH AFRICA,Bathing,3
+May,MEXICO,Other Water Sports,3
+Jan,TONGA,Fishing&Hunting,3
+May,MEXICO,Swimming,3
+Mar,BRAZIL,Surfing,3
+Jul,PAPUA NEW GUINEA,Fishing&Hunting,3
+Jul,USA,Shark related activities,3
+Jan,BRAZIL,Swimming,3
+Jun,BRAZIL,Swimming,3
+Jun,BRAZIL,Surfing,3
+Sep,AUSTRALIA,UnKnown,3
+Apr,SOUTH AFRICA,UnKnown,3
+Jun,SOUTH AFRICA,Fishing&Hunting,3
+Sep,SOUTH AFRICA,Swimming,3
+Jan,SOUTH AFRICA,Shark related activities,3
+Jan,BRAZIL,Surfing,2
+Sep,BRAZIL,UnKnown,2
+Jan,ITALY,Boating,2
+Jan,IRAQ,Random activities,2
+Jun,USA,Random activities,2
+Jan,ITALY,Fishing&Hunting,2
+Jun,ITALY,Fishing&Hunting,2
+May,USA,Walking,2
+Nov,INDONESIA,Surfing,2
+Aug,SENEGAL,Fishing&Hunting,2
+Sep,AUSTRALIA,Swimming,2
+Jan,CUBA,Swimming,2
+Nov,FIJI,Other Water Sports,2
+Nov,FIJI,Fishing&Hunting,2
+Mar,SOUTH AFRICA,Bathing,2
+Sep,AUSTRALIA,Accidents or natural disasters,2
+Jan,EGYPT,Accidents or natural disasters,2
+Jul,MEXICO,Swimming,2
+Jun,SOUTH AFRICA,Swimming,2
+Nov,MARSHALL ISLANDS,Swimming,2
+Aug,PHILIPPINES,Accidents or natural disasters,2
+Aug,RUSSIA,Swimming,2
+Sep,MARSHALL ISLANDS,Other Water Sports,2
+Sep,BAHAMAS,Other Water Sports,2
+Mar,FIJI,Other Water Sports,2
+Apr,BRAZIL,Fishing&Hunting,2
+Sep,CROATIA,Swimming,2
+Jun,USA,Boating,2
+Jan,MEXICO,Swimming,2
+Jul,EGYPT,Other Water Sports,2
+May,AUSTRALIA,Shark related activities,2
+May,AUSTRALIA,Swimming,2
+May,NEW CALEDONIA,Other Water Sports,2
+May,NEW CALEDONIA,Fishing&Hunting,2
+Sep,USA,Shark related activities,2
+Mar,BRAZIL,Other Water Sports,2
+Aug,GREECE,Swimming,2
+Sep,HONG KONG,Swimming,2
+May,BAHAMAS,Fishing&Hunting,2
+May,MEXICO,Surfing,2
+May,BRAZIL,Swimming,2
+Apr,BRAZIL,Surfing,2
+Jan,USA,Random activities,2
+Jan,VANUATU,UnKnown,2
+May,FRENCH POLYNESIA,Fishing&Hunting,2
+Jan,VIETNAM,UnKnown,2
+Aug,EGYPT,Fishing&Hunting,2
+Aug,CUBA,Fishing&Hunting,2
+Jul,AUSTRALIA,Swimming,2
+Jul,AUSTRALIA,UnKnown,2
+May,PANAMA,Other Water Sports,2
+May,PAPUA NEW GUINEA,Bathing,2
+May,PAPUA NEW GUINEA,Fishing&Hunting,2
+Jan,NEW CALEDONIA,Fishing&Hunting,2
+Apr,PHILIPPINES,Accidents or natural disasters,2
+Sep,USA,Boating,2
+Mar,USA,Accidents or natural disasters,2
+Jul,JAPAN,UnKnown,2
+Sep,REUNION,Other Water Sports,2
+Jan,MOZAMBIQUE,UnKnown,2
+Mar,USA,Shark related activities,2
+Jul,ITALY,Other Water Sports,2
+Jul,ITALY,Fishing&Hunting,2
+Jan,NEW GUINEA,UnKnown,2
+May,PAPUA NEW GUINEA,Other Water Sports,2
+Jan,AUSTRALIA,Random activities,2
+Mar,CHILE,Swimming,2
+Aug,JAPAN,Swimming,2
+Jan,NEW ZEALAND,Bathing,2
+Jan,PALAU,Other Water Sports,2
+May,PHILIPPINES,Accidents or natural disasters,2
+Sep,EL SALVADOR,Surfing,2
+Jan,PAPUA NEW GUINEA,Swimming,2
+May,PAPUA NEW GUINEA,UnKnown,2
+Jul,PAPUA NEW GUINEA,Swimming,2
+Mar,MEXICO,Swimming,2
+Jun,NEW ZEALAND,Fishing&Hunting,2
+Feb,MEXICO,Swimming,2
+Feb,FIJI,Other Water Sports,2
+Dec,PAPUA NEW GUINEA,UnKnown,2
+Nov,USA,Walking,2
+Nov,USA,UnKnown,2
+Sep,MEXICO,UnKnown,2
+Feb,JAMAICA,UnKnown,2
+Dec,PAPUA NEW GUINEA,Other Water Sports,2
+Sep,NORTH PACIFIC OCEAN,Accidents or natural disasters,2
+Apr,INDONESIA,Surfing,2
+Dec,ECUADOR,Surfing,2
+Feb,PAPUA NEW GUINEA,UnKnown,2
+Mar,PAPUA NEW GUINEA,Swimming,2
+Jul,SPAIN,Bathing,2
+Sep,TANZANIA,Swimming,2
+Nov,SOUTH AFRICA,UnKnown,2
+Mar,BAHAMAS,Fishing&Hunting,2
+Aug,AUSTRALIA,Swimming,2
+Apr,MARSHALL ISLANDS,Other Water Sports,2
+Jun,FRENCH POLYNESIA,Fishing&Hunting,2
+Feb,PAPUA NEW GUINEA,Fishing&Hunting,2
+Aug,USA,Random activities,2
+Jan,AUSTRALIA,Accidents or natural disasters,2
+Apr,VENEZUELA,UnKnown,2
+Dec,PHILIPPINES,Accidents or natural disasters,2
+Apr,AUSTRALIA,Accidents or natural disasters,2
+Dec,BRAZIL,Fishing&Hunting,2
+Oct,SOLOMON ISLANDS,UnKnown,2
+Dec,AUSTRALIA,Shark related activities,2
+Jun,PAPUA NEW GUINEA,UnKnown,2
+Dec,USA,Accidents or natural disasters,2
+Apr,BAHAMAS,Bathing,2
+Sep,USA,Walking,2
+Aug,AUSTRALIA,UnKnown,2
+Oct,SOUTH AFRICA,Shark related activities,2
+Oct,SOUTH AFRICA,Swimming,2
+Mar,NEW ZEALAND,Surfing,2
+Oct,AUSTRALIA,UnKnown,2
+Aug,BAHAMAS,Swimming,2
+Feb,COSTA RICA,Swimming,2
+Jun,REUNION,Surfing,2
+Jul,USA,Boating,2
+Jul,USA,Random activities,2
+Jul,VIETNAM,Swimming,2
+Feb,PAPUA NEW GUINEA,Swimming,2
+Sep,TAIWAN,Swimming,2
+Dec,NEW ZEALAND,Accidents or natural disasters,2
+Oct,PAPUA NEW GUINEA,Bathing,2
+Apr,TONGA,Accidents or natural disasters,2
+Apr,MEXICO,Swimming,2
+Aug,UNITED KINGDOM,Accidents or natural disasters,2
+Sep,MEXICO,Other Water Sports,2
+Aug,SPAIN,Swimming,2
+Feb,USA,Accidents or natural disasters,2
+Feb,USA,Boating,2
+Mar,NEW CALEDONIA,Surfing,2
+Feb,TONGA,Accidents or natural disasters,2
+Oct,PANAMA,Bathing,2
+Jun,HONG KONG,UnKnown,2
+Apr,SUDAN,Fishing&Hunting,2
+Apr,FIJI,Fishing&Hunting,2
+Aug,SOUTH AFRICA,UnKnown,2
+Aug,SOUTH AFRICA,Other Water Sports,2
+Aug,SEYCHELLES,Other Water Sports,2
+Mar,PHILIPPINES,Accidents or natural disasters,2
+Aug,AUSTRALIA,Shark related activities,2
+Nov,PAPUA NEW GUINEA,Bathing,2
+Jun,AUSTRALIA,UnKnown,2
+Jun,GRENADA,Bathing,2
+Apr,USA,Shark related activities,2
+Nov,REUNION,Fishing&Hunting,2
+Dec,NEW CALEDONIA,Fishing&Hunting,2
+Jul,SOUTH AFRICA,UnKnown,2
+Jun,AUSTRALIA,Swimming,2
+Apr,USA,Random activities,2
+Jun,AUSTRALIA,Bathing,2
+Aug,TONGA,Fishing&Hunting,2
+Apr,USA,Accidents or natural disasters,2
+Oct,PHILIPPINES,Accidents or natural disasters,2
+Oct,UNITED KINGDOM,Fishing&Hunting,2
+Mar,BANGLADESH,Accidents or natural disasters,1
+Mar,BELIZE,Other Water Sports,1
+Mar,ITALY,Other Water Sports,1
+Mar,BAHAMAS,UnKnown,1
+Mar,NETHERLANDS ANTILLES,Accidents or natural disasters,1
+Mar,MOZAMBIQUE,Fishing&Hunting,1
+May,DOMINICAN REPUBLIC,Surfing,1
+Mar,JAMAICA,Fishing&Hunting,1
+May,AUSTRALIA,Bathing,1
+Mar,BERMUDA,Accidents or natural disasters,1
+Mar,JAPAN,Other Water Sports,1
+May,BRAZIL,Bathing,1
+Mar,MALAYSIA,Fishing&Hunting,1
+May,BAHAMAS,Accidents or natural disasters,1
+May,CUBA,Other Water Sports,1
+Mar,JAPAN,Fishing&Hunting,1
+May,COSTA RICA,Surfing,1
+May,BRAZIL,UnKnown,1
+Mar,JAPAN,UnKnown,1
+May,BAHAMAS,Shark related activities,1
+Mar,NEW CALEDONIA,UnKnown,1
+May,BERMUDA,Surfing,1
+Mar,NEW CALEDONIA,Swimming,1
+May,BAHAMAS,Other Water Sports,1
+Mar,SOLOMON ISLANDS,Accidents or natural disasters,1
+Sep,USA,Random activities,1
+Mar,BRAZIL,Stranger things,1
+Mar,PAPUA NEW GUINEA,Boating,1
+Mar,PAPUA NEW GUINEA,UnKnown,1
+Jun,USA,Walking,1
+Mar,FIJI,Bathing,1
+Mar,FIJI,Surfing,1
+Mar,PHILIPPINES,Swimming,1
+Jun,VIETNAM,Fishing&Hunting,1
+Mar,Sierra Leone,Fishing&Hunting,1
+Mar,AUSTRALIA,Random activities,1
+Mar,SUDAN,Accidents or natural disasters,1
+Mar,SPAIN,Surfing,1
+Mar,SOUTH AFRICA,Stranger things,1
+Mar,REUNION,Other Water Sports,1
+Mar,SAUDI ARABIA,Surfing,1
+Mar,SENEGAL,Other Water Sports,1
+Mar,SEYCHELLES,Other Water Sports,1
+Mar,SOMALIA,UnKnown,1
+Mar,SOLOMON ISLANDS,Other Water Sports,1
+Mar,MEXICO,Fishing&Hunting,1
+Mar,FIJI,Swimming,1
+Mar,EGYPT,UnKnown,1
+Mar,FRENCH POLYNESIA,Bathing,1
+Mar,VENEZUELA,Surfing,1
+Mar,ITALY,Boating,1
+Mar,INDIAN OCEAN,Accidents or natural disasters,1
+Mar,NEW ZEALAND,Accidents or natural disasters,1
+Mar,GUAM,Fishing&Hunting,1
+Mar,FRENCH POLYNESIA,Shark related activities,1
+Mar,BRAZIL,UnKnown,1
+Mar,CARIBBEAN SEA,Accidents or natural disasters,1
+Mar,YEMEN,UnKnown,1
+Mar,USA,Boating,1
+Mar,PAPUA NEW GUINEA,Accidents or natural disasters,1
+Mar,CAYMAN ISLANDS,Other Water Sports,1
+Mar,NEW ZEALAND,Swimming,1
+Mar,NORTH PACIFIC OCEAN,Other Water Sports,1
+Mar,CHILE,Fishing&Hunting,1
+Mar,CHILE,Other Water Sports,1
+Mar,PACIFIC OCEAN,Fishing&Hunting,1
+Jun,VIETNAM,Swimming,1
+Mar,EGYPT,Swimming,1
+Mar,NEW ZEALAND,UnKnown,1
+Nov,NEW CALEDONIA,Other Water Sports,1
+May,ECUADOR,Surfing,1
+Oct,PHILIPPINES,Random activities,1
+Oct,SCOTLAND,Other Water Sports,1
+Oct,SCOTLAND,Surfing,1
+Oct,SENEGAL,Other Water Sports,1
+Sep,THAILAND,Bathing,1
+Oct,SOUTH AFRICA,Accidents or natural disasters,1
+Oct,SOUTH AFRICA,Boating,1
+Oct,SOUTH AFRICA,Random activities,1
+Sep,TANZANIA,Fishing&Hunting,1
+Sep,SPAIN,Swimming,1
+Oct,ST. MARTIN,Bathing,1
+Oct,TONGA,Swimming,1
+Oct,VANUATU,Other Water Sports,1
+Sep,ANDAMAN / NICOBAR ISLANDAS,Bathing,1
+Sep,AUSTRALIA,Bathing,1
+Sep,AUSTRALIA,Random activities,1
+Sep,BAHAMAS,UnKnown,1
+Sep,BERMUDA,UnKnown,1
+Sep,BRAZIL,Accidents or natural disasters,1
+Sep,BRAZIL,Other Water Sports,1
+Oct,RED SEA / INDIAN OCEAN,Accidents or natural disasters,1
+Oct,PAPUA NEW GUINEA,UnKnown,1
+Oct,CUBA,Other Water Sports,1
+Oct,PAPUA NEW GUINEA,Swimming,1
+Oct,EGYPT,Other Water Sports,1
+Oct,FIJI,Accidents or natural disasters,1
+Oct,FIJI,Fishing&Hunting,1
+Oct,GRAND CAYMAN,Other Water Sports,1
+Oct,GULF OF ADEN,UnKnown,1
+Oct,JAPAN,UnKnown,1
+Oct,JOHNSTON ISLAND,Other Water Sports,1
+Oct,MEXICO,Bathing,1
+Oct,MEXICO,Shark related activities,1
+Oct,MEXICO,Swimming,1
+Oct,MOZAMBIQUE,Swimming,1
+Oct,NEW BRITAIN,Fishing&Hunting,1
+Oct,NEW CALEDONIA,Fishing&Hunting,1
+Oct,NEW ZEALAND,Swimming,1
+Oct,NEW ZEALAND,UnKnown,1
+Oct,NIGERIA,Bathing,1
+Oct,NORTH ATLANTIC OCEAN,Accidents or natural disasters,1
+Oct,NORTH PACIFIC OCEAN,Fishing&Hunting,1
+Oct,OKINAWA,Swimming,1
+Sep,BRITISH WEST INDIES,Fishing&Hunting,1
+Sep,CHILE,Other Water Sports,1
+Sep,DOMINICAN REPUBLIC,Fishing&Hunting,1
+Sep,DOMINICAN REPUBLIC,Swimming,1
+Sep,NEW CALEDONIA,Swimming,1
+Sep,NEW ZEALAND,Fishing&Hunting,1
+Sep,NEW ZEALAND,Other Water Sports,1
+Sep,SPAIN,Other Water Sports,1
+Sep,OKINAWA,Surfing,1
+Sep,PACIFIC OCEAN,Accidents or natural disasters,1
+Sep,PALAU,Fishing&Hunting,1
+Sep,PAPUA NEW GUINEA,Other Water Sports,1
+Sep,PAPUA NEW GUINEA,Surfing,1
+Sep,PERSIAN GULF,Other Water Sports,1
+Sep,PHILIPPINES,Accidents or natural disasters,1
+Sep,PHILIPPINES,Swimming,1
+Sep,PHILIPPINES,UnKnown,1
+Sep,REUNION,Surfing,1
+Sep,SENEGAL,Fishing&Hunting,1
+Sep,SOLOMON ISLANDS,UnKnown,1
+Sep,SOMALIA,Fishing&Hunting,1
+Sep,SOMALIA,Swimming,1
+Sep,SOUTH AFRICA,Accidents or natural disasters,1
+Sep,NEW CALEDONIA,Surfing,1
+Sep,NEW CALEDONIA,Accidents or natural disasters,1
+Sep,NEVIS,Swimming,1
+Sep,ISRAEL,Swimming,1
+Sep,EGYPT,Swimming,1
+Sep,EGYPT,UnKnown,1
+Sep,FIJI,Bathing,1
+Sep,FIJI,Fishing&Hunting,1
+Sep,FRENCH POLYNESIA,Fishing&Hunting,1
+Sep,HONG KONG,Accidents or natural disasters,1
+Sep,INDIA,UnKnown,1
+Sep,ISRAEL,Other Water Sports,1
+Sep,ITALY,Swimming,1
+Sep,MOZAMBIQUE,Swimming,1
+Sep,KENYA,Swimming,1
+Sep,MARSHALL ISLANDS,UnKnown,1
+Sep,MAYOTTE,Fishing&Hunting,1
+Sep,MEXICO,Fishing&Hunting,1
+Sep,MEXICO,Surfing,1
+Sep,MEXICO,Swimming,1
+Sep,MICRONESIA,Other Water Sports,1
+Sep,MID ATLANTIC OCEAN,Accidents or natural disasters,1
+Oct,DOMINICAN REPUBLIC,Accidents or natural disasters,1
+Oct,CROATIA,Fishing&Hunting,1
+May,EGYPT,Bathing,1
+May,PHILIPPINES,UnKnown,1
+May,REUNION,Surfing,1
+May,SEYCHELLES,Other Water Sports,1
+May,SOLOMON ISLANDS,Fishing&Hunting,1
+May,TAIWAN,Fishing&Hunting,1
+May,TANZANIA,Accidents or natural disasters,1
+May,TURKS & CAICOS,Accidents or natural disasters,1
+May,UNITED ARAB EMIRATES,Fishing&Hunting,1
+May,UNITED KINGDOM,Fishing&Hunting,1
+May,USA,Random activities,1
+May,VIETNAM,Random activities,1
+May,VIETNAM,Swimming,1
+Nov,BAHAMAS,Fishing&Hunting,1
+Nov,BRAZIL,Swimming,1
+Nov,DOMINICAN REPUBLIC,Other Water Sports,1
+Nov,ECUADOR,Other Water Sports,1
+Nov,ECUADOR,UnKnown,1
+Nov,FRENCH POLYNESIA,Fishing&Hunting,1
+Nov,HONG KONG,Swimming,1
+Nov,INDIA,Surfing,1
+May,REUNION,Other Water Sports,1
+May,PHILIPPINES,Fishing&Hunting,1
+Oct,CROATIA,Boating,1
+May,PANAMA,Bathing,1
+May,ENGLAND,Fishing&Hunting,1
+May,FIJI,Boating,1
+May,FIJI,Other Water Sports,1
+May,FRANCE,Other Water Sports,1
+May,GUAM,Fishing&Hunting,1
+May,HONG KONG,Other Water Sports,1
+May,INDIA,Fishing&Hunting,1
+May,ITALY,UnKnown,1
+May,JAMAICA,Other Water Sports,1
+May,MADAGASCAR,Fishing&Hunting,1
+May,MADAGASCAR,Other Water Sports,1
+May,MADAGASCAR,UnKnown,1
+May,MID ATLANTIC OCEAN,Accidents or natural disasters,1
+May,NAMIBIA,Shark related activities,1
+May,NEW BRITAIN,Fishing&Hunting,1
+May,NEW CALEDONIA,Accidents or natural disasters,1
+May,NEW CALEDONIA,UnKnown,1
+May,NEW ZEALAND,Fishing&Hunting,1
+May,PALESTINIAN TERRITORIES,Fishing&Hunting,1
+Nov,ITALY,Fishing&Hunting,1
+Nov,JAMAICA,Fishing&Hunting,1
+Nov,JAPAN,Fishing&Hunting,1
+Nov,MAURITIUS,Fishing&Hunting,1
+Nov,SAMOA,Fishing&Hunting,1
+Nov,SOMALIA,Random activities,1
+Nov,SOUTH AFRICA,Random activities,1
+Nov,TAIWAN,Accidents or natural disasters,1
+Nov,THAILAND,UnKnown,1
+Nov,TURKS & CAICOS,Other Water Sports,1
+Nov,USA,Boating,1
+Nov,USA,Shark related activities,1
+Nov,VANUATU,Other Water Sports,1
+Oct,ADMIRALTY ISLANDS,UnKnown,1
+Oct,AUSTRALIA,Accidents or natural disasters,1
+Oct,AZORES,Fishing&Hunting,1
+Oct,BAHAMAS,Bathing,1
+Sep,THAILAND,Fishing&Hunting,1
+Oct,BAHAMAS,Surfing,1
+Oct,BAHAMAS,UnKnown,1
+Oct,BRAZIL,Other Water Sports,1
+Oct,BRAZIL,Swimming,1
+Oct,BRAZIL,UnKnown,1
+Nov,REUNION,Other Water Sports,1
+Nov,PHILIPPINES,Fishing&Hunting,1
+Nov,PAPUA NEW GUINEA,Swimming,1
+Nov,NEW CALEDONIA,UnKnown,1
+Nov,MEXICO,Other Water Sports,1
+Nov,MEXICO,Swimming,1
+Nov,MEXICO,UnKnown,1
+Nov,MICRONESIA,Other Water Sports,1
+Nov,MID ATLANTIC OCEAN,Accidents or natural disasters,1
+Nov,MOZAMBIQUE,Fishing&Hunting,1
+Nov,NEW CALEDONIA,Fishing&Hunting,1
+Sep,SOUTH ATLANTIC OCEAN,Accidents or natural disasters,1
+Nov,NEW GUINEA,UnKnown,1
+Nov,PAPUA NEW GUINEA,Other Water Sports,1
+Nov,NEW ZEALAND,Accidents or natural disasters,1
+Nov,NEW ZEALAND,Other Water Sports,1
+Nov,NORTHERN ARABIAN SEA,Accidents or natural disasters,1
+Nov,PACIFIC OCEAN,Accidents or natural disasters,1
+Nov,PACIFIC OCEAN,Bathing,1
+Sep,UNITED KINGDOM,Other Water Sports,1
+Nov,PANAMA,Fishing&Hunting,1
+Nov,PANAMA,Random activities,1
+Nov,PALAU,Fishing&Hunting,1
+Jul,OKINAWA,Swimming,1
+Jun,UNITED KINGDOM,Fishing&Hunting,1
+Dec,JOHNSTON ISLAND,Other Water Sports,1
+Dec,KIRIBATI,Fishing&Hunting,1
+Dec,MALDIVE ISLANDS,Accidents or natural disasters,1
+Dec,MEXICO,Surfing,1
+Dec,MEXICO,Swimming,1
+Dec,MICRONESIA,Fishing&Hunting,1
+Dec,MOZAMBIQUE,Bathing,1
+Dec,NEW BRITAIN,Fishing&Hunting,1
+Dec,NEW CALEDONIA,Other Water Sports,1
+Dec,NEW CALEDONIA,Stranger things,1
+Dec,NEW ZEALAND,Bathing,1
+Dec,NEW ZEALAND,Other Water Sports,1
+Dec,NEW ZEALAND,Swimming,1
+Dec,PAPUA NEW GUINEA,Swimming,1
+Dec,PHILIPPINES,Swimming,1
+Dec,PORTUGAL,Fishing&Hunting,1
+Dec,REUNION,Fishing&Hunting,1
+Dec,SINGAPORE,Bathing,1
+Dec,SOUTH AFRICA,Shark related activities,1
+Dec,SOUTH CHINA SEA,Other Water Sports,1
+Dec,SPAIN,Fishing&Hunting,1
+Dec,SPAIN,Swimming,1
+Dec,SRI LANKA,Accidents or natural disasters,1
+Dec,TURKEY,Fishing&Hunting,1
+Dec,KENYA,Fishing&Hunting,1
+Dec,JAPAN,Other Water Sports,1
+Feb,ATLANTIC OCEAN,Other Water Sports,1
+Dec,ITALY,Boating,1
+Aug,UNITED KINGDOM,Other Water Sports,1
+Aug,USA,Shark related activities,1
+Aug,USA,Stranger things,1
+Dec,AMERICAN SAMOA,Accidents or natural disasters,1
+Dec,AMERICAN SAMOA,Random activities,1
+Dec,ANTIGUA,Swimming,1
+Dec,ARUBA,Accidents or natural disasters,1
+Dec,ATLANTIC OCEAN,Accidents or natural disasters,1
+Dec,ATLANTIC OCEAN,Other Water Sports,1
+Dec,BAHAMAS,Accidents or natural disasters,1
+Dec,BAHAMAS,Fishing&Hunting,1
+Dec,BRAZIL,Other Water Sports,1
+Dec,BRITISH VIRGIN ISLANDS,Other Water Sports,1
+Dec,CANADA,Other Water Sports,1
+Dec,CHILE,Other Water Sports,1
+Dec,FIJI,Surfing,1
+Dec,FIJI,Swimming,1
+Dec,FIJI,UnKnown,1
+Dec,GABON,Swimming,1
+Dec,GREECE,Fishing&Hunting,1
+Dec,GREECE,UnKnown,1
+Dec,GUATEMALA,Accidents or natural disasters,1
+Dec,INDONESIA,Surfing,1
+Dec,VANUATU,UnKnown,1
+Feb,AUSTRALIA,Random activities,1
+Aug,TUNISIA,Surfing,1
+Feb,NEW ZEALAND,Accidents or natural disasters,1
+Feb,PAPUA NEW GUINEA,Boating,1
+Feb,PAPUA NEW GUINEA,Other Water Sports,1
+Feb,REUNION,Surfing,1
+Feb,REUNION,Swimming,1
+Feb,REUNION,UnKnown,1
+Feb,SENEGAL,Fishing&Hunting,1
+Feb,SOLOMON ISLANDS,Accidents or natural disasters,1
+Feb,SOLOMON ISLANDS,Bathing,1
+Feb,SOLOMON ISLANDS,Swimming,1
+Feb,SOUTH AFRICA,Accidents or natural disasters,1
+Feb,SOUTH AFRICA,Shark related activities,1
+Feb,TONGA,Swimming,1
+Feb,TRINIDAD & TOBAGO,Fishing&Hunting,1
+Feb,TURKS & CAICOS,Fishing&Hunting,1
+Feb,USA,Random activities,1
+Feb,VENEZUELA,Accidents or natural disasters,1
+Feb,VENEZUELA,Surfing,1
+Jan,ANGOLA,Surfing,1
+Jan,ARGENTINA,Bathing,1
+Jan,ATLANTIC OCEAN,Random activities,1
+Jan,AUSTRALIA,Shark related activities,1
+Jan,AUSTRALIA,Stranger things,1
+Jan,AZORES,Fishing&Hunting,1
+Feb,NEW ZEALAND,Shark related activities,1
+Feb,NEW CALEDONIA,UnKnown,1
+Feb,AUSTRALIA,Walking,1
+Feb,NEW CALEDONIA,Surfing,1
+Feb,BAHAMAS,Other Water Sports,1
+Feb,BRAZIL,Fishing&Hunting,1
+Feb,BRAZIL,Surfing,1
+Feb,BRAZIL,Swimming,1
+Feb,CAYMAN ISLANDS,Random activities,1
+Feb,DOMINICAN REPUBLIC,Accidents or natural disasters,1
+Feb,DOMINICAN REPUBLIC,Bathing,1
+Feb,EGYPT,Other Water Sports,1
+Feb,ENGLAND,Shark related activities,1
+Feb,FIJI,UnKnown,1
+Feb,FRENCH POLYNESIA,Fishing&Hunting,1
+Feb,FRENCH POLYNESIA,Other Water Sports,1
+Feb,FRENCH POLYNESIA,Surfing,1
+Feb,GUAM,Other Water Sports,1
+Feb,INDIA,Fishing&Hunting,1
+Feb,ITALY,Surfing,1
+Feb,JAPAN,Other Water Sports,1
+Feb,MALAYSIA,UnKnown,1
+Feb,MAURITIUS,UnKnown,1
+Feb,MEXICO,Accidents or natural disasters,1
+Feb,MEXICO,Fishing&Hunting,1
+Feb,MOZAMBIQUE,Other Water Sports,1
+Feb,NEW CALEDONIA,Other Water Sports,1
+Aug,TURKEY,UnKnown,1
+Aug,THAILAND,UnKnown,1
+Jun,TURKS & CAICOS,Other Water Sports,1
+Apr,NEW CALEDONIA,Walking,1
+Apr,NEW ZEALAND,Other Water Sports,1
+Apr,NEW ZEALAND,Surfing,1
+Apr,PALAU,Walking,1
+Apr,PAPUA NEW GUINEA,Other Water Sports,1
+Apr,PAPUA NEW GUINEA,Swimming,1
+Apr,PERSIAN GULF,Accidents or natural disasters,1
+Apr,PHILIPPINES,Swimming,1
+Apr,REUNION,Accidents or natural disasters,1
+Apr,REUNION,Random activities,1
+Apr,REUNION,Surfing,1
+Apr,REUNION,UnKnown,1
+Apr,SOLOMON ISLANDS,Other Water Sports,1
+Apr,SOLOMON ISLANDS,Swimming,1
+Apr,SOUTH AFRICA,Shark related activities,1
+Apr,SPAIN,Other Water Sports,1
+Apr,TAIWAN,Other Water Sports,1
+Apr,USA,Walking,1
+Apr,VANUATU,Swimming,1
+Apr,VENEZUELA,Surfing,1
+Apr,WESTERN SAMOA,Swimming,1
+Aug,AMERICAN SAMOA,Swimming,1
+Aug,AUSTRALIA,Bathing,1
+Aug,AZORES,Fishing&Hunting,1
+Apr,NEW ZEALAND,Fishing&Hunting,1
+Apr,NEW CALEDONIA,UnKnown,1
+Aug,BELIZE,Fishing&Hunting,1
+Apr,NEW CALEDONIA,Swimming,1
+Apr,AUSTRALIA,Random activities,1
+Apr,BERMUDA,Bathing,1
+Apr,BRAZIL,Accidents or natural disasters,1
+Apr,BRAZIL,Random activities,1
+Apr,CAPE VERDE,UnKnown,1
+Apr,EGYPT,Swimming,1
+Apr,FIJI,Other Water Sports,1
+Apr,FRENCH POLYNESIA,Fishing&Hunting,1
+Apr,FRENCH POLYNESIA,Other Water Sports,1
+Apr,GRENADA,Swimming,1
+Apr,GUAM,UnKnown,1
+Apr,HONDURAS,Other Water Sports,1
+Apr,IRAN,Swimming,1
+Apr,IRAN,UnKnown,1
+Apr,ITALY,Other Water Sports,1
+Apr,JAMAICA,Fishing&Hunting,1
+Apr,JAPAN,Other Water Sports,1
+Apr,KENYA,Swimming,1
+Apr,MAURITIUS,Swimming,1
+Apr,MEXICO,Bathing,1
+Apr,MOZAMBIQUE,Accidents or natural disasters,1
+Apr,MOZAMBIQUE,Random activities,1
+Apr,NEW CALEDONIA,Surfing,1
+Aug,BAHAMAS,Surfing,1
+Aug,BERMUDA,Bathing,1
+Aug,THAILAND,Accidents or natural disasters,1
+Aug,MALTA,Fishing&Hunting,1
+Aug,MARSHALL ISLANDS,Fishing&Hunting,1
+Aug,MEXICO,Bathing,1
+Aug,MEXICO,Boating,1
+Aug,MOZAMBIQUE,Accidents or natural disasters,1
+Aug,NEW BRITAIN,Other Water Sports,1
+Aug,NEW BRITAIN,Swimming,1
+Aug,NEW CALEDONIA,Fishing&Hunting,1
+Aug,NORTH ATLANTIC OCEAN,Bathing,1
+Aug,PANAMA,Other Water Sports,1
+Aug,PAPUA NEW GUINEA,Other Water Sports,1
+Aug,PHILIPPINES,Random activities,1
+Aug,REUNION,Fishing&Hunting,1
+Aug,REUNION,Other Water Sports,1
+Aug,RUSSIA,Bathing,1
+Aug,SCOTLAND,Fishing&Hunting,1
+Aug,SENEGAL,Accidents or natural disasters,1
+Aug,SOUTH AFRICA,Accidents or natural disasters,1
+Aug,SOUTH AFRICA,Stranger things,1
+Aug,SOUTH AFRICA,Swimming,1
+Aug,SOUTH KOREA,Swimming,1
+Aug,Seychelles,Fishing&Hunting,1
+Aug,TAIWAN,Other Water Sports,1
+Aug,TANZANIA,Swimming,1
+Aug,MALTA,Surfing,1
+Aug,MALAYSIA,Bathing,1
+Aug,BERMUDA,Fishing&Hunting,1
+Aug,JAPAN,Fishing&Hunting,1
+Aug,BRAZIL,Bathing,1
+Aug,BRAZIL,Surfing,1
+Aug,BRAZIL,Swimming,1
+Aug,BRAZIL,UnKnown,1
+Aug,COLUMBIA,Bathing,1
+Aug,COLUMBIA,Fishing&Hunting,1
+Aug,COLUMBIA,UnKnown,1
+Aug,CROATIA,Fishing&Hunting,1
+Aug,CROATIA,UnKnown,1
+Aug,EL SALVADOR,Fishing&Hunting,1
+Aug,ENGLAND,Fishing&Hunting,1
+Aug,ENGLAND,Shark related activities,1
+Aug,FRANCE,Fishing&Hunting,1
+Aug,FRANCE,UnKnown,1
+Aug,FRENCH POLYNESIA,Fishing&Hunting,1
+Aug,FRENCH POLYNESIA,Surfing,1
+Aug,FRENCH POLYNESIA,Swimming,1
+Aug,HONG KONG,UnKnown,1
+Aug,INDONESIA,Accidents or natural disasters,1
+Aug,ISRAEL,Fishing&Hunting,1
+Aug,ITALY,Accidents or natural disasters,1
+Aug,ITALY,Shark related activities,1
+Aug,ITALY,UnKnown,1
+Jan,BAHAMAS,Random activities,1
+Jan,BERMUDA,Fishing&Hunting,1
+Jan,BRAZIL,Other Water Sports,1
+Jul,PANAMA,Surfing,1
+Jul,PHILIPPINES,Accidents or natural disasters,1
+Jul,REUNION,Accidents or natural disasters,1
+Jul,REUNION,Other Water Sports,1
+Jul,REUNION,Swimming,1
+Jul,RUSSIA,Other Water Sports,1
+Jul,SENEGAL,UnKnown,1
+Jul,SINGAPORE,Other Water Sports,1
+Jul,SOUTH AFRICA,Accidents or natural disasters,1
+Jul,SOUTH AFRICA,Bathing,1
+Jul,SPAIN,Other Water Sports,1
+Jul,TAIWAN,Swimming,1
+Jul,TANZANIA,Swimming,1
+Jul,THE BALKANS,Swimming,1
+Jul,TONGA,Other Water Sports,1
+Jul,TRINIDAD & TOBAGO,Swimming,1
+Jul,TURKEY,Fishing&Hunting,1
+Jul,TURKEY,Swimming,1
+Jul,UNITED KINGDOM,Other Water Sports,1
+Jul,USA,Walking,1
+Jul,YEMEN,Swimming,1
+Jun,AUSTRALIA,Shark related activities,1
+Jun,BAHAMAS,UnKnown,1
+Jun,BERMUDA,Random activities,1
+Jul,PAPUA NEW GUINEA,Other Water Sports,1
+Jul,PANAMA,Other Water Sports,1
+Jun,BRAZIL,Fishing&Hunting,1
+Jul,PANAMA,Bathing,1
+Jul,ENGLAND,UnKnown,1
+Jul,FEDERATED STATES OF MICRONESIA,Fishing&Hunting,1
+Jul,FRENCH POLYNESIA,Fishing&Hunting,1
+Jul,FRENCH POLYNESIA,Swimming,1
+Jul,GREECE,Swimming,1
+Jul,GREECE,UnKnown,1
+Jul,JAMAICA,Accidents or natural disasters,1
+Jul,JAPAN,Fishing&Hunting,1
+Jul,JAPAN,Surfing,1
+Jul,KENYA,Accidents or natural disasters,1
+Jul,KENYA,Swimming,1
+Jul,LIBERIA,Swimming,1
+Jul,MADAGASCAR,Shark related activities,1
+Jul,MALTA,Swimming,1
+Jul,MEXICO,Surfing,1
+Jul,MEXICO,UnKnown,1
+Jul,MONTENEGRO,Swimming,1
+Jul,NEW CALEDONIA,UnKnown,1
+Jul,NEW ZEALAND,Other Water Sports,1
+Jul,NORTH ATLANTIC OCEAN,UnKnown,1
+Jul,NORWAY,Other Water Sports,1
+Jul,OKINAWA,Fishing&Hunting,1
+Jul,PANAMA,Accidents or natural disasters,1
+Jun,BRAZIL,Bathing,1
+Jun,BRAZIL,Other Water Sports,1
+Jan,BRAZIL,UnKnown,1
+Jun,MEXICO,Accidents or natural disasters,1
+Jun,MEXICO,Surfing,1
+Jun,MEXICO,Swimming,1
+Jun,MID ATLANTIC OCEAN,Accidents or natural disasters,1
+Jun,NEW BRITAIN,Fishing&Hunting,1
+Jun,NEW CALEDONIA,Surfing,1
+Jun,NORTH SEA,Fishing&Hunting,1
+Jun,PAPUA NEW GUINEA,Accidents or natural disasters,1
+Jun,PAPUA NEW GUINEA,Random activities,1
+Jun,PAPUA NEW GUINEA,Stranger things,1
+Jun,PHILIPPINES,Accidents or natural disasters,1
+Jun,PHILIPPINES,Surfing,1
+Jun,PORTUGAL,Fishing&Hunting,1
+Jun,PUERTO RICO,Fishing&Hunting,1
+Jun,SCOTLAND,Fishing&Hunting,1
+Jun,SOMALIA,Swimming,1
+Jun,SOUTH AFRICA,Shark related activities,1
+Jun,SOUTH KOREA,Other Water Sports,1
+Jun,SOUTH PACIFIC OCEAN,Bathing,1
+Jun,ST. MARTIN,Other Water Sports,1
+Jun,TAIWAN,Fishing&Hunting,1
+Jun,TANZANIA,Swimming,1
+Jun,TURKEY,UnKnown,1
+Jun,TURKS & CAICOS,Fishing&Hunting,1
+Jun,MEXICO,Other Water Sports,1
+Jun,MALAYSIA,Other Water Sports,1
+Jun,BRAZIL,UnKnown,1
+Jun,JAPAN,UnKnown,1
+Jun,BRITISH ISLES,Other Water Sports,1
+Jun,COLUMBIA,Fishing&Hunting,1
+Jun,COLUMBIA,Other Water Sports,1
+Jun,COSTA RICA,Surfing,1
+Jun,CROATIA,Swimming,1
+Jun,CUBA,Accidents or natural disasters,1
+Jun,EGYPT,Swimming,1
+Jun,ENGLAND,Fishing&Hunting,1
+Jun,ENGLAND,UnKnown,1
+Jun,FIJI,Fishing&Hunting,1
+Jun,FIJI,Other Water Sports,1
+Jun,GREECE,Swimming,1
+Jun,HONG KONG,Bathing,1
+Jun,HONG KONG,Fishing&Hunting,1
+Jun,INDONESIA,UnKnown,1
+Jun,ITALY,Accidents or natural disasters,1
+Jun,ITALY,Other Water Sports,1
+Jun,ITALY,Surfing,1
+Jun,ITALY,UnKnown,1
+Jun,JAMAICA,Other Water Sports,1
+Jun,JAMAICA,UnKnown,1
+Jun,JAPAN,Fishing&Hunting,1
+Jun,JAPAN,Surfing,1
+Jul,EGYPT / ISRAEL,Other Water Sports,1
+Jul,ECUADOR,Accidents or natural disasters,1
+Jul,DIEGO GARCIA,Swimming,1
+Jan,INDONESIA,Accidents or natural disasters,1
+Jan,IRAN,Fishing&Hunting,1
+Jan,IRAQ,Fishing&Hunting,1
+Jan,IRAQ,Swimming,1
+Jan,JAPAN,Accidents or natural disasters,1
+Jan,KENYA,Fishing&Hunting,1
+Jan,LIBERIA,Other Water Sports,1
+Jan,MADAGASCAR,Bathing,1
+Jan,MARSHALL ISLANDS,Fishing&Hunting,1
+Jan,MARSHALL ISLANDS,Other Water Sports,1
+Jan,MARTINIQUE,UnKnown,1
+Jan,MEXICO,Fishing&Hunting,1
+Jan,MEXICO,Other Water Sports,1
+Jan,MEXICO,Stranger things,1
+Jan,MEXICO,Surfing,1
+Jan,MONTENEGRO,Bathing,1
+Jan,MOZAMBIQUE,Accidents or natural disasters,1
+Jan,MOZAMBIQUE,Bathing,1
+Jan,MOZAMBIQUE,Surfing,1
+Jan,NEW CALEDONIA,Other Water Sports,1
+Jan,NEW CALEDONIA,Surfing,1
+Jan,NEW GUINEA,Other Water Sports,1
+Jan,NEW ZEALAND,Boating,1
+Jan,NEW ZEALAND,Random activities,1
+Jan,INDONESIA,UnKnown,1
+Jan,INDIA,UnKnown,1
+Jul,CROATIA,UnKnown,1
+Jan,HONG KONG,Other Water Sports,1
+Jan,CARIBBEAN SEA,Accidents or natural disasters,1
+Jan,CARIBBEAN SEA,Random activities,1
+Jan,CHILE,Other Water Sports,1
+Jan,COLUMBIA,Accidents or natural disasters,1
+Jan,COLUMBIA,Fishing&Hunting,1
+Jan,COLUMBIA,Swimming,1
+Jan,COSTA RICA,Accidents or natural disasters,1
+Jan,COSTA RICA,Surfing,1
+Jan,COSTA RICA,Swimming,1
+Jan,CROATIA,Fishing&Hunting,1
+Jan,CROATIA,UnKnown,1
+Jan,CUBA,UnKnown,1
+Jan,ECUADOR,Accidents or natural disasters,1
+Jan,ECUADOR,Surfing,1
+Jan,EGYPT,Fishing&Hunting,1
+Jan,ENGLAND,Shark related activities,1
+Jan,FIJI,Other Water Sports,1
+Jan,FIJI,Swimming,1
+Jan,FRANCE,Swimming,1
+Jan,GREECE,Other Water Sports,1
+Jan,GREECE,Surfing,1
+Jan,GREECE,Swimming,1
+Jan,GRENADA,Fishing&Hunting,1
+Jan,NEW ZEALAND,Shark related activities,1
+Jan,NEW ZEALAND,Stranger things,1
+Jan,NEW ZEALAND,Swimming,1
+Jan,NICARAGUA,Bathing,1
+Jan,USA,Boating,1
+Jan,USA,Walking,1
+Jan,VANUATU,Bathing,1
+Jan,VANUATU,Swimming,1
+Jan,VENEZUELA,Fishing&Hunting,1
+Jan,VENEZUELA,Swimming,1
+Jan,VIETNAM,Bathing,1
+Jul,AUSTRALIA,Accidents or natural disasters,1
+Jul,AUSTRALIA,Bathing,1
+Jul,AUSTRALIA,Shark related activities,1
+Jul,BAHAMAS,Stranger things,1
+Jul,BAHAMAS,Swimming,1
+Jul,BERMUDA,Other Water Sports,1
+Jul,BERMUDA,Swimming,1
+Jul,BERMUDA,UnKnown,1
+Jul,BRAZIL,UnKnown,1
+Jul,CANADA,Fishing&Hunting,1
+Jul,CANADA,Surfing,1
+Jul,CARIBBEAN SEA,Accidents or natural disasters,1
+Jul,CARIBBEAN SEA,UnKnown,1
+Jul,CHINA,Other Water Sports,1
+Jul,CHINA,Swimming,1
+Jul,COLUMBIA,Other Water Sports,1
+Jan,URUGUAY,Surfing,1
+Jan,UNITED ARAB EMIRATES,Surfing,1
+Jan,UNITED ARAB EMIRATES,Fishing&Hunting,1
+Jan,SAMOA,Shark related activities,1
+Jan,NORTH ATLANTIC OCEAN,Fishing&Hunting,1
+Jan,PANAMA,Other Water Sports,1
+Jan,PAPUA NEW GUINEA,Bathing,1
+Jan,PAPUA NEW GUINEA,Random activities,1
+Jan,RED SEA,Bathing,1
+Jan,REUNION,Accidents or natural disasters,1
+Jan,REUNION,Bathing,1
+Jan,REUNION,Other Water Sports,1
+Jan,REUNION,Surfing,1
+Jan,REUNION,UnKnown,1
+Jan,SENEGAL,Other Water Sports,1
+Jan,TUNISIA,Fishing&Hunting,1
+Jan,SEYCHELLES,Fishing&Hunting,1
+Jan,SOMALIA,UnKnown,1
+Jan,SOUTH AFRICA,Random activities,1
+Jan,SOUTH AFRICA,Stranger things,1
+Jan,SOUTH KOREA,Swimming,1
+Jan,SPAIN,Accidents or natural disasters,1
+Jan,SPAIN,Fishing&Hunting,1
+Jan,SRI LANKA,Other Water Sports,1
+Jan,TAIWAN,Fishing&Hunting,1
+Jan,THAILAND,Other Water Sports,1
+Sep,VIETNAM,UnKnown,1
